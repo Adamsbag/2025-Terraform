@@ -13,3 +13,4 @@ terraform {
 
 # You can specify the region here or in main.tf
 #Conflict 1
+# Feature: Specify AWS region in provider.tf
