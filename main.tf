@@ -128,3 +128,5 @@ resource "aws_instance" "app_server" {
     Name = "App_Server"
   }
 }
+
+#Adding Comments to test git change detection
