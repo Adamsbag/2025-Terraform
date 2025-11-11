@@ -130,4 +130,4 @@ resource "aws_instance" "app_server" {
 }
 
 #Adding Comments to test git change detection
-# End of main.tf file
+# End of main.tf file 
